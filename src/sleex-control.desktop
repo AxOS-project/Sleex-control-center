@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Name=Sleex Control Center
+Comment=Control center for Sleex
+StartupNotify=true
+Exec=/usr/bin/sleex-control
+Icon=settings
+Categories=System;Control;Settings;
