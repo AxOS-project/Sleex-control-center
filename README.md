@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo will now be archived as [axos-project/sleex-settings](https://github.com/axos-project/sleex-settings) is just better
+
 # Sleex control center
 ### [WIP]
 
